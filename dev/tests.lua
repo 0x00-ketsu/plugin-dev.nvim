@@ -1,3 +1,4 @@
+-- TODO: rename to real `plugin name`
 local example = require("example")
 
 local M = {}

@@ -3,6 +3,7 @@ package.loaded["dev"] = nil
 package.loaded["dev.tests"] = nil
 
 -- reimport plugin modules
+-- TODO: rename to real `plugin name`
 package.loaded["example"] = nil
 package.loaded["example.init"] = nil
 
