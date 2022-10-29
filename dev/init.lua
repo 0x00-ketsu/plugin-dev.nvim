@@ -6,6 +6,8 @@ package.loaded["dev.tests"] = nil
 -- TODO: rename to real `plugin name`
 package.loaded["example"] = nil
 package.loaded["example.init"] = nil
+package.loaded["example.config"] = nil
+package.loaded["example.utils.common"] = nil
 
 -- keymaps for develop nvim plugin
 vim.api.nvim_set_keymap('n', 'dr', ':luafile dev/init.lua<CR>', {noremap = true})
