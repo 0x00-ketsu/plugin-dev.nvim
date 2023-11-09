@@ -21,7 +21,7 @@ A project for develop neovim (lua) plugin quicklly
 3. Start developing
 
     ```shell
-    nvim --cmd "set rtp+=."
+    nvim -c "set rtp+=."
     ```
 
 4. Activate dev configurations in neovim `command` line
